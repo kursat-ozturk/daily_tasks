@@ -1,2 +1,2 @@
-app/* linguist-documentation=false
-app/* linguist-vendored
+$ cat .gitattributes
+*.rb linguist-language=Dart
